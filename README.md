@@ -11,6 +11,6 @@ I'm Jaymo Muigai, a passionate data scientist with a background in computer scie
 
 ## Contact
 
-Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/james-muigai/) or via email at [jaymo.muigai.k@gmail.com]. I'm open to collaboration and always excited to discuss data science projects and opportunities.
+Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/james-muigai/) or via email at jaymo.muigai.k@gmail.com. I'm open to collaboration and always excited to discuss data science projects and opportunities.
 
 Thank you for visiting my portfolio, and I look forward to connecting with you!
